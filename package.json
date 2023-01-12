@@ -1,0 +1,10 @@
+{
+  "name": "gsheet_to_json",
+  "version": "1.0.0",
+  "description": "Simple google sheet formated array to json object",
+  "main": "index.js",
+  "author": "Sergio Suzerain Osson",
+  "license": "MIT",
+  "private": false,
+  "type": "module"
+}
